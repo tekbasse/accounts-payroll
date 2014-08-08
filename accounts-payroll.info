@@ -7,15 +7,14 @@
     <initial-install-p>f</initial-install-p>
     <singleton-p>f</singleton-p>
     
-    <version name="0.1d" url="http://openacs.org/repository/download/apm/accounts-payroll-0.1d.apm">
-        <owner url="mailto:torben@dekka.net">Torben Brosten</owner>
+    <version name="0.001" url="http://openacs.org/repository/download/apm/accounts-payroll-0.001.apm">
+        <owner url="mailto:tekbasse@yahoo.com">Benjamin Brink</owner>
         <owner url="http://openacs.org">OpenACS community</owner>
         <summary>Payroll package provides payroll related management and package services.</summary>
-        <vendor url="http://dekka.com">Dekka Corp of Oregon</vendor>
         <description format="text/plain">Payroll package provides basic UI for managing payroll, and provides services to other packages, for example production workorders, labor timesheets etc.</description>
         <maturity>0</maturity>
 
-        <provides url="accounts-payroll" version="0.1d"/>
+        <provides url="accounts-payroll" version="0.001"/>
 
         <callbacks>
         </callbacks>
